@@ -1,2 +1,2 @@
-# nodejs_example_01_hola_mundo
-Primer pequeño ejemplo con NodeJS
+# nodejs_example_01_hello_word
+Pequeño ejemplo con NodeJS
